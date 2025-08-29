@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Derrick Nyongesa an Electrical and electronics engineering graduate.
-- 👀 I’m interested in python programming especially artificial intelligence and machine learning.
+- 👋 Hi, I’m Derrick Nyongesa an Electrical and electronics engineering graduate.
+- 👀 I’m interested in python programming especially in applications with artificial intelligence and machine learning.
 - 🌱 I’m currently learning data science.
