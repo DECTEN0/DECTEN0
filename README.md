@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derrick Nyongesa</h1>
 <h3 align="center">A passionate Electrical Engineer/Data Scientist</h3>
 
-- 🌱 I’m currently learning **Scikit Learn**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
