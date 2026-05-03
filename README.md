@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derrick Nyongesa</h1>
 <h3 align="center">A passionate Electrical Engineer/Data Scientist</h3>
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently studying **Postgraduate Diploma in Data Science, University of Witwatersrand, SA**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
