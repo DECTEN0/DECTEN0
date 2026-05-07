@@ -15,9 +15,9 @@
 
 I'm an Electrical Engineer transitioning into Data Science, currently completing a **Postgraduate Diploma in Data Science** at the **University of the Witwatersrand, South Africa**. My work sits at the intersection of engineering systems and intelligent data-driven solutions.
 
-I'm passionate about applying machine learning and AI to solve real-world problems — from signal processing and embedded systems to predictive modelling and deep learning.
+I'm passionate about applying machine learning and AI to solve real-world problems, from signal processing and embedded systems to predictive modelling and deep learning.
 
-- 🎓 **PGDip Data Science** — University of the Witwatersrand, SA *(in progress)*
+- 🎓 **PGDip Data Science** University of the Witwatersrand, SA *(in progress)*
 - 🔭 Currently exploring **deep learning, computer vision, and MLOps**
 - 🤝 Open to collaborating on **machine learning and AI projects**
 - 📬 Reach me at **derricknyongesa0@gmail.com**
